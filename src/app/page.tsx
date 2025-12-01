@@ -4,7 +4,7 @@ export default function Home() {
     "@type": "SoftwareApplication",
     "name": "HelioAstra",
     "description": "AI-Powered Astrology Software for personalized cosmic insights",
-    "url": "https://helioastra.github.io",
+    "url": "https://helioelements.github.io/helioastra.github.io",
     "applicationCategory": "Lifestyle",
     "operatingSystem": "Web",
     "offers": {

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "HelioAstra - AI-Powered Astrology Software",
     description: "Revolutionary AI-powered astrology platform for personalized cosmic insights",
-    url: "https://helioastra.github.io",
+    url: "https://helioelements.github.io/helioastra.github.io",
     siteName: "HelioAstra",
     type: "website",
     locale: "en_US",
@@ -42,7 +42,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="canonical" href="https://helioastra.github.io" />
+        <link rel="canonical" href="https://helioelements.github.io/helioastra.github.io" />
         <meta name="theme-color" content="#667eea" />
       </head>
       <body className="antialiased">
